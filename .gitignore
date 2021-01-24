@@ -115,5 +115,5 @@ celerybeat-schedule.bak
 celerybeat-schedule.dat
 celerybeat-schedule.dir
 /logger/server.log*
-/scripts/中招上传文件统计表.xlsx
 /self_test/
+.vscode
